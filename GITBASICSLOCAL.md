@@ -1,6 +1,6 @@
 # Local and remote repos communication
 
-### Init git in the /website/public/ folder
+### Git init
 `git init`
 
 ### Track changes to github repo
@@ -11,7 +11,6 @@
 git add .
 git commit -m "first version of the website"
 ```
-
 ### Set origin
 `git remote add origin https://github.com/<UserName>/<RepoName>.git`
 
