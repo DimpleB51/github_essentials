@@ -71,5 +71,5 @@ vs **Justified text**
 <p align="justify"> Following writeup is an accompaniment to the submitted project 4 of Udacity's Self-Driving nanodegree program. In this project our goal is to train a network using Keras which can successfully emulate human driving behavior autonomously in a simulated enviornment. We had an option to generate data using the simulator or use Udacity's sample dataset. <br/>I initially tried generating the data however I wasn't able to navigate through the simulation enviornment properly as I would mostly drive off the roads. Hence I chose to proceed with the dataset provided by Udacity. Following the Udacity lectures I built the CNN based on NVIDIA's End to End Learning for Self-Driving Cars paper. To avoid overfitting I have added a dropout layer after the first fully connected layer. The training and testing was done in Udacity' workspace. </p>
 
 ### Notes
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br/>
 [Basic syntax](https://www.markdownguide.org/basic-syntax/)
