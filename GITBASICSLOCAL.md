@@ -1,4 +1,4 @@
-# Local and main github repos syntax
+# Local and remote repos communication
 
 ### Init git in the /website/public/ folder
 `git init`
