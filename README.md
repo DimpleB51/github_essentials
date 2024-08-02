@@ -38,9 +38,9 @@ vs
 
 ### Adding tables to the files
 | Layer         		| Description    	        					|addd|
-|:---------------------:|:---------------------------------------------:||
-| Input         		| 160x320x3 RGB Image                 	   		||
-| Normalization     		| Normalize batch	                            ||
+|:---------------------:|:---------------------------------------------:|:---------------------------------------------:|
+| Input         		| 160x320x3 RGB Image                 	   		|a|
+| Normalization     		| Normalize batch	                            |b|
 
 ### Adding coding instructions to the files
 ##### Single line instructions
