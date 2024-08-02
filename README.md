@@ -37,18 +37,10 @@ vs
 |[Youtube Link](https://youtu.be/1WB2iHLmNtk)|
 
 ### Adding tables to the files
-| Layer         		| Description    	        					|
-|:---------------------:|:---------------------------------------------:|
-| Input         		| 160x320x3 RGB Image                 	   		|
-| Normalization     		| Normalize batch	                            |
-| Cropping layer		| 65x320x3
-| Convolution 5x5   | 2x2 stride, outputs 31x158x24 	|
-| ELU activation		|												|
-| Convolution 5x5	  | 2x2 stride, outputs 14x77x36   |
-| ELU activation    |                                               |
-| Convolution 5x5	  | 2x2 stride, outputs 5x37x48    |
-| ELU activation    |                                               |
-| Convolution 3x3	  | 1x1 stride, outputs 3x35x64    |
+| Layer         		| Description    	        					|addd|
+|:---------------------:|:---------------------------------------------:||
+| Input         		| 160x320x3 RGB Image                 	   		||
+| Normalization     		| Normalize batch	                            ||
 
 ### Adding coding instructions to the files
 ##### Single line instructions
