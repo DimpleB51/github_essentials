@@ -1,4 +1,14 @@
 # Local and remote repos communication
+### Setting up user id and email as authenticator in local repo
+```
+git config --global user.name "DimpleB51"
+git config --global user.email dimple.bhuta@tihiitb.org
+```
+
+To check if you have correctly configured github credentials RUN,
+```
+git config user.name && git config user.email
+```
 
 ### Git init
 `git init`
